@@ -1,2 +1,0 @@
-# Westerplatte
-Westerplatte Source Code
